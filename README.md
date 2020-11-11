@@ -1,9 +1,5 @@
-### Yoo, I'm nobuya  👋
+### Yoo, I'm nobuya 【江哉】 👋
 
-[![GitHub]()
-[![RSS]()
-
-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
 - ⚡ C++ / Python.
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
 - ✍️ [Blogger](https://haysc.tech)
