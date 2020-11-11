@@ -1,3 +1,3 @@
-### Yoo, I'm 江哉 👋
+### Yoohoho, I'm 江哉 👋
 
 - ⚡ SQL / Python.
