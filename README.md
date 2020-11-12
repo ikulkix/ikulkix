@@ -1,8 +1,7 @@
 ### Yahoo！, I'm ikulkix 👋
 
-- ⚡ SQL / Python.
+- 💻  SQL / Python.
 - 📷 
 - 🎮 
 - 🎧 
 - 🎬 
-- 💻
