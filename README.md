@@ -1,4 +1,4 @@
-### Yahoo！, I'm 江哉 👋
+### Yahoo！, I'm ikulkix 👋
 
 - ⚡ SQL / Python.
 - 📷 
