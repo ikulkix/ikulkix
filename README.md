@@ -1,4 +1,5 @@
- 👋 Yahoo！, 我是来自神秘东方的ikulkix，我是一名神奇的系统工程师，除了系统工程什么都做，爱好烹饪、健身、摄影，野生科技，三观奇正。
+ # 👋 Yahoo！
+ 我是来自神秘东方的ikulkix，我是一名神奇的系统工程师，除了系统工程什么都做，爱好烹饪、健身、摄影，野生科技，三观奇正。
 
 # 设备
 - 🖥️   iMac19.1 Hackintosh macOS-Big-Sur [OpenCore- EFI](https://github.com/ikulkix/ikulkix/issues/1)
